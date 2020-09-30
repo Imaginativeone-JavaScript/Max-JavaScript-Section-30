@@ -1,17 +1,17 @@
-Section 30: Performance & Optimizations 0/16 | 1hr  | 38min
-- [ ] 512. Module Introduction | 2min
-- [ ] 513. What is "Performance Optimization" About? | 6min
-- [ ] 514. Optimization Potentials | 7min
-- [ ] 515. Measuring Performance | 4min
-- [ ] 516. Diving Into The Browser Devtools (for Performance Measuring) | 16min
-- [ ] 517. Further Resources | 2min
-- [ ] 518. Preparing The Testing Setup | 4min
-- [ ] 519. Optimizing Startup Time & Code Usage / Coverage | 12min
-- [ ] 520. Updating The DOM Correctly | 10min
-- [ ] 521. Updating Lists Correctly | 8min
-- [ ] 522. Optimizing The Small Things | 4min
-- [ ] 523. Micro-Optimizations (Think Twice!) | 9min
-- [ ] 524. Finding & Fixing Memory Leaks | 10min
-- [ ] 525. Server-side Performance Optimizations | 1min
-- [ ] 526. Wrap Up | 3min
-- [ ] 527. Useful Resources & Links | 1min
+- [ ] Section 30: Performance & Optimizations 0/16 | 1hr  | 38min
+  - [ ] 512. Module Introduction | 2min
+  - [ ] 513. What is "Performance Optimization" About? | 6min
+  - [ ] 514. Optimization Potentials | 7min
+  - [ ] 515. Measuring Performance | 4min
+  - [ ] 516. Diving Into The Browser Devtools (for Performance Measuring) | 16min
+  - [ ] 517. Further Resources | 2min
+  - [ ] 518. Preparing The Testing Setup | 4min
+  - [ ] 519. Optimizing Startup Time & Code Usage / Coverage | 12min
+  - [ ] 520. Updating The DOM Correctly | 10min
+  - [ ] 521. Updating Lists Correctly | 8min
+  - [ ] 522. Optimizing The Small Things | 4min
+  - [ ] 523. Micro-Optimizations (Think Twice!) | 9min
+  - [ ] 524. Finding & Fixing Memory Leaks | 10min
+  - [ ] 525. Server-side Performance Optimizations | 1min
+  - [ ] 526. Wrap Up | 3min
+  - [ ] 527. Useful Resources & Links | 1min
