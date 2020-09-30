@@ -1,6 +1,11 @@
 - [ ] Section 30: Performance & Optimizations 0/16 | 1hr  | 38min
   - [ ] 512. Module Introduction | 2min
   - [ ] 513. What is "Performance Optimization" About? | 6min
+    - Startup time; Runtime performance
+    - Smoothness
+    - Cumulative Memory Leaks
+    - CSS and HTML matter
+    - Server
   - [ ] 514. Optimization Potentials | 7min
   - [ ] 515. Measuring Performance | 4min
   - [ ] 516. Diving Into The Browser Devtools (for Performance Measuring) | 16min
